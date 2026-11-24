@@ -1,9 +1,9 @@
 {
   "name": "sviddcasino.com",
   "site_name": "Svidd Casino – Casino, Live Casino og Odds på ett sted",
-  "html_head": "<link rel=\"canonical\" href=\"https://21k-casino.org/\">\n<link rel=\"alternate\" href=\"https://21k-casino.org/\" hreflang=\"en\">\n<link rel=\"alternate\" href=\"https://21k-casino.org/\" hreflang=\"x-default\">\n<meta property=\"og:locale\" content=\"en\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"21K Casino – Up to 400% Welcome Bonus + 230 Free Spins\">\n<meta property=\"og:description\" content=\"21K Casino: four welcome bonuses worth up to €4,000 + 230 FS, weekly cashback, a 50% reload, Weekly Raffle and fast payments in euro, cards and crypto.\">\n<meta property=\"og:url\" content=\"https://21k-casino.org/\">\n<meta property=\"og:site_name\" content=\"21K Casino\">\n<meta property=\"og:image\" content=\"https://21k-casino.org/uploads/21k-casino-baner.webp\">\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n<meta name=\"twitter:title\" content=\"21K Casino – Up to 400% Welcome Bonus + 230 Free Spins\">\n<meta name=\"twitter:description\" content=\"21K Casino: four welcome bonuses worth up to €4,000 + 230 FS, weekly cashback, a 50% reload, Weekly Raffle and fast payments in euro, cards and crypto.\">\n<meta name=\"twitter:image\" content=\"https://21k-casino.org/uploads/21k-casino-baner.webp\">",
+  "html_head": "<link rel=\"canonical\" href=\"https://sviddcasino.com/\">\n<link rel=\"alternate\" href=\"https://sviddcasino.com/\" hreflang=\"nb-NO\">\n<meta property=\"og:locale\" content=\"nb_NO\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Svidd Casino – Casino, Live Casino og Odds på ett sted\">\n<meta property=\"og:description\" content=\"Svidd Casino samler spilleautomater, live casino og odds med MGA-lisens. Les om velkomstbonus, Svidd Odds, innskudd, uttak, kundeservice og ansvarlig spill.\">\n<meta property=\"og:url\" content=\"https://sviddcasino.com/\">\n<meta property=\"og:site_name\" content=\"Svidd Casino\">\n<meta property=\"og:image\" content=\"https://sviddcasino.com/uploads/svidd-casino-baner.webp\">\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n<meta name=\"twitter:title\" content=\"Svidd Casino – Casino, Live Casino og Odds på ett sted\">\n<meta name=\"twitter:description\" content=\"Svidd Casino samler spilleautomater, live casino og odds med MGA-lisens. Les om velkomstbonus, Svidd Odds, innskudd, uttak, kundeservice og ansvarlig spill.\">\n<meta name=\"twitter:image\" content=\"https://sviddcasino.com/uploads/svidd-casino-baner.webp\">",
   "template": "tupchiy",
-  "language_code": "nb",
+  "language_code": "nb-NO",
   "allow_indexing": false,
   "redirect_404s_to_homepage": true,
   "use_www_version": false,
@@ -86,29 +86,31 @@
   "cta_background": "#E77844",
   "logo": null,
   "popup_logo": null,
-  "main_background_img": null,
+  "main_background_img": {
+    "url": "/uploads/svidd-casino-baner.webp"
+  },
   "header_menu": [
     {
       "link": "/play/",
-      "label": "Welcome Bonus",
+      "label": "Velkomstbonus",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Promotions",
+      "label": "Spill",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Games",
+      "label": "Live Casino",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Payments",
+      "label": "Odds",
       "submenu": [],
       "openInNewTab": false
     }
@@ -116,19 +118,19 @@
   "footer_menu": [
     {
       "link": "/play/",
-      "label": "Weekly Raffle",
+      "label": "Innskudd og uttak",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "VIP Ranks",
+      "label": "Kundeservice",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Responsible Gambling",
+      "label": "Ansvarlig spill",
       "submenu": [],
       "openInNewTab": false
     }
@@ -145,19 +147,14 @@
       "image_alt": "mastercard"
     },
     {
-      "link": "/play/",
-      "image": "/uploads/657303d64f52b7d3416483142b9b416c.svg",
-      "image_alt": "skrill"
-    },
-    {
-      "link": "/play/",
-      "image": "/uploads/767309a1bb8da0f68e987f277a6ebbf1.webp",
-      "image_alt": "bitcoin"
-    },
-    {
       "link": "https://www.gamblingtherapy.org/",
       "image": "/uploads/9a676efc19861467abdc78cea9216323.webp",
       "image_alt": "gambling therapy"
+    },
+    {
+      "link": "/play/",
+      "image": "/uploads/bbf15b10671656850b4a6181ada2f5e0.webp",
+      "image_alt": "18+"
     }
   ],
   "Slots": [
@@ -236,8 +233,8 @@
     }
   ],
   "url": "sviddcasino.com",
-  "_generated_at": "2026-11-24T16:37:45.833Z",
+  "_generated_at": "2026-11-24T17:06:51.148Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-24T16:37:51.013Z",
-  "_deploy_trigger": "1f9quf"
+  "_last_deploy": "2026-11-24T17:06:51.987Z",
+  "_deploy_trigger": "r6rz4l"
 }
