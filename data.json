@@ -160,53 +160,57 @@
   "Slots": [
     {
       "link": "/play/",
-      "logo": "",
-      "name": "",
-      "Name": ""
+      "logo": "/uploads/ee702c2ac004e5e8a761a4bb41f6fbd1.webp",
+      "name": "Sumo Showdown",
+      "Name": "Sumo Showdown",
+      "logo_alt": "sumo showdown"
     },
     {
       "link": "/play/",
-      "logo": "",
-      "name": "",
-      "Name": ""
+      "logo": "/uploads/90eb7679d61dc925454ef4d8ad9f4b6d.webp",
+      "name": "Dead or Alive",
+      "Name": "Dead or Alive",
+      "logo_alt": "Dead or Alive"
     },
     {
       "link": "/play/",
-      "logo": "",
-      "name": "",
-      "Name": ""
+      "logo": "/uploads/c932a34fed408fb9c1fc0244d217b91b.webp",
+      "name": "Pyramid Coins",
+      "Name": "Pyramid Coins",
+      "logo_alt": "pyramid coins"
     },
     {
       "link": "/play/",
-      "logo": "",
-      "name": "",
-      "Name": ""
+      "logo": "/uploads/d27fd4fab9ab10c93381228b613a5492.webp",
+      "name": "Legacy of Dead",
+      "Name": "Legacy of Dead",
+      "logo_alt": "Legacy of Dead"
     }
   ],
   "Bonuses": [
     {
       "link": "/play/",
-      "logo": "",
-      "name": "",
-      "Name": ""
+      "logo": "/uploads/6a8cfb128b7a872406ab8ebdc5244c01.webp",
+      "name": "Velkomstbonus",
+      "Name": "Velkomstbonus"
     },
     {
       "link": "/play/",
-      "logo": "",
-      "name": "",
-      "Name": ""
+      "logo": "/uploads/94d2f0583b87f4027db9940c29c43822.webp",
+      "name": "Oddsboost",
+      "Name": "Oddsboost"
     },
     {
       "link": "/play/",
-      "logo": "",
-      "name": "",
-      "Name": ""
+      "logo": "/uploads/074ffcde24a4bb9847b495805e11d148.webp",
+      "name": "Jackpoter",
+      "Name": "Jackpoter"
     },
     {
       "link": "/play/",
-      "logo": "",
-      "name": "",
-      "Name": ""
+      "logo": "/uploads/3cd89a359c6c752b44f3203ec79790c0.webp",
+      "name": "Live Casino",
+      "Name": "Live Casino"
     }
   ],
   "Reviews": null,
@@ -233,8 +237,8 @@
     }
   ],
   "url": "sviddcasino.com",
-  "_generated_at": "2026-11-24T17:06:51.148Z",
+  "_generated_at": "2026-11-26T18:58:07.491Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-24T17:06:51.987Z",
-  "_deploy_trigger": "r6rz4l"
+  "_last_deploy": "2026-11-26T18:58:08.167Z",
+  "_deploy_trigger": "vn3q9f"
 }
