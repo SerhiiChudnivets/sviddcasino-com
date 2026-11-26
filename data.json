@@ -1,10 +1,10 @@
 {
   "name": "sviddcasino.com",
   "site_name": "Svidd Casino – Casino, Live Casino og Odds på ett sted",
-  "html_head": "<link rel=\"canonical\" href=\"https://sviddcasino.com/\">\n<link rel=\"alternate\" href=\"https://sviddcasino.com/\" hreflang=\"nb-NO\">\n<meta property=\"og:locale\" content=\"nb_NO\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Svidd Casino – Casino, Live Casino og Odds på ett sted\">\n<meta property=\"og:description\" content=\"Svidd Casino samler spilleautomater, live casino og odds med MGA-lisens. Les om velkomstbonus, Svidd Odds, innskudd, uttak, kundeservice og ansvarlig spill.\">\n<meta property=\"og:url\" content=\"https://sviddcasino.com/\">\n<meta property=\"og:site_name\" content=\"Svidd Casino\">\n<meta property=\"og:image\" content=\"https://sviddcasino.com/uploads/svidd-casino-baner.webp\">\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n<meta name=\"twitter:title\" content=\"Svidd Casino – Casino, Live Casino og Odds på ett sted\">\n<meta name=\"twitter:description\" content=\"Svidd Casino samler spilleautomater, live casino og odds med MGA-lisens. Les om velkomstbonus, Svidd Odds, innskudd, uttak, kundeservice og ansvarlig spill.\">\n<meta name=\"twitter:image\" content=\"https://sviddcasino.com/uploads/svidd-casino-baner.webp\">",
+  "html_head": "<meta name=\"google-site-verification\" content=\"VloUlsv1p6LoigliJvT_IMu68gUvcPYnhAL2BKg05LY\" />\n<link rel=\"canonical\" href=\"https://sviddcasino.com/\">\n<link rel=\"alternate\" href=\"https://sviddcasino.com/\" hreflang=\"nb-NO\">\n<meta property=\"og:locale\" content=\"nb_NO\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Svidd Casino – Casino, Live Casino og Odds på ett sted\">\n<meta property=\"og:description\" content=\"Svidd Casino samler spilleautomater, live casino og odds med MGA-lisens. Les om velkomstbonus, Svidd Odds, innskudd, uttak, kundeservice og ansvarlig spill.\">\n<meta property=\"og:url\" content=\"https://sviddcasino.com/\">\n<meta property=\"og:site_name\" content=\"Svidd Casino\">\n<meta property=\"og:image\" content=\"https://sviddcasino.com/uploads/svidd-casino-baner.webp\">\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n<meta name=\"twitter:title\" content=\"Svidd Casino – Casino, Live Casino og Odds på ett sted\">\n<meta name=\"twitter:description\" content=\"Svidd Casino samler spilleautomater, live casino og odds med MGA-lisens. Les om velkomstbonus, Svidd Odds, innskudd, uttak, kundeservice og ansvarlig spill.\">\n<meta name=\"twitter:image\" content=\"https://sviddcasino.com/uploads/svidd-casino-baner.webp\">",
   "template": "tupchiy",
   "language_code": "nb-NO",
-  "allow_indexing": false,
+  "allow_indexing": true,
   "redirect_404s_to_homepage": true,
   "use_www_version": false,
   "breadcrumbs": true,
@@ -241,8 +241,8 @@
     }
   ],
   "url": "sviddcasino.com",
-  "_generated_at": "2026-11-26T19:08:17.687Z",
+  "_generated_at": "2026-11-26T19:12:32.479Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-26T19:08:18.499Z",
-  "_deploy_trigger": "v9bvt"
+  "_last_deploy": "2026-11-26T19:12:33.054Z",
+  "_deploy_trigger": "63ed58"
 }
